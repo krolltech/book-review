@@ -80,15 +80,61 @@ There's a lot of external evidence that benevolence works. But how does it work?
 Morale is tremendously important to a startup—so important that morale alone is almost enough to determine success. Startups are often described as emotional roller-coasters. One minute you're going to take over the world, and the next you're doomed. The problem with feeling you're doomed is not just that it makes you unhappy, but that it makes you stop working. So the downhills of the roller-coaster are more of a self fulfilling prophecy than the uphills. If feeling you're going to succeed makes you work harder, that probably improves your chances of succeeding, but if feeling you're going to fail makes you stop working, that practically guarantees you'll fail.   
 士气对于初创公司是及其重要的-重要的是唯一决定着是否成功。初创公司往往被描述为不确定性的。现在你好像要统治世界,下一刻又要注定宣判了。这个让你被宣判的问题不仅仅在于让你不高兴,而是真正的让你停止工作。因此上坡下坡的过山车是自我实现的预言。如果你觉得你会成功,你就会更努力的工作,相反如果你觉得你要失败,你会消极工作,那么注定要失败。 
 
-Here's where benevolence comes in. If you feel you're really helping people, you'll keep working even when it seems like your startup is doomed. Most of us have some amount of natural benevolence. The mere fact that someone needs you makes you want to help them. So if you start the kind of startup where users come back each day, you've basically built yourself a giant tamagotchi. You've made something you need to take care of.
+Here's where benevolence comes in. If you feel you're really helping people, you'll keep working even when it seems like your startup is doomed. Most of us have some amount of natural benevolence. The mere fact that someone needs you makes you want to help them. So if you start the kind of startup where users come back each day, you've basically built yourself a giant tamagotchi. You've made something you need to take care of.   
+这就是非盈利性从何而来。如果你感觉你能真正的帮助人们,你会继续工作,甚至感觉初创是注定的。我们大多数人在这点上都有自然性。而事实也是有些人希望你能帮助他们。所以如果你仁慈的开始,人们会每天回访,你已经开始构建你自己的巨大的引力场。你用心的做了必须的事情。  
 
-Blogger is a famous example of a startup that went through really low lows and survived. At one point they ran out of money and everyone left. Evan Williams came in to work the next day, and there was no one but him. What kept him going? Partly that users needed him. He was hosting thousands of people's blogs. He couldn't just let the site die.
+Blogger is a famous example of a startup that went through really low lows and survived. At one point they ran out of money and everyone left. Evan Williams came in to work the next day, and there was no one but him. What kept him going? Partly that users needed him. He was hosting thousands of people's blogs. He couldn't just let the site die.     
+Blogger是一个著名的例子,经历了非常低调的初创和幸存。有次,他们用光所有的钱,所有的人都离开了。有一天,埃文-威廉姆斯来到办公室,发现除了他办公室一个人也没有。是什么让它坚持?因为有些用户需要他。他承载了上千人的博客。他不能让其就此死去。   
 
-There are many advantages of launching quickly, but the most important may be that once you have users, the tamagotchi effect kicks in. Once you have users to take care of, you're forced to figure out what will make them happy, and that's actually very valuable information.
+There are many advantages of launching quickly, but the most important may be that once you have users, the tamagotchi effect kicks in. Once you have users to take care of, you're forced to figure out what will make them happy, and that's actually very valuable information.     
+迅速推出有很多优势,一旦你有了用户,你的引力场效应就会发挥作用。一旦你有了用户需要用心照顾,你就被迫的需要搞清楚什么能让他们高兴,而那才是真正有价值的信息。  
 
-The added confidence that comes from trying to help people can also help you with investors. One of the founders of Chatterous told me recently that he and his cofounder had decided that this service was something the world needed, so they were going to keep working on it no matter what, even if they had to move back to Canada and live in their parents' basements.
+The added confidence that comes from trying to help people can also help you with investors. One of the founders of Chatterous told me recently that he and his cofounder had decided that this service was something the world needed, so they were going to keep working on it no matter what, even if they had to move back to Canada and live in their parents' basements.   
+试着帮助别人能让你和你的投资者增加信心。Chatterous的创始人最近告诉我,他和他的联合创始人已经决定,这项服务是人们需要的,所以不管发生什么他们会一直努力工作下去,甚至要他们不得不搬回加拿大和他们的父母同住。  
 
-Once they realized this, they stopped caring so much what investors thought about them. They still met with them, but they weren't going to die if they didn't get their money. And you know what? The investors got a lot more interested. They could sense that the Chatterouses were going to do this startup with or without them.
+Once they realized this, they stopped caring so much what investors thought about them. They still met with them, but they weren't going to die if they didn't get their money. And you know what? The investors got a lot more interested. They could sense that the Chatterouses were going to do this startup with or without them.   
+一旦他们意识到这点,他们不在乎投资者如何看待他们。他们仍然见面,但是得不到他们的投资,他们也不会灭亡。你知道发生了什么吗?很多投资者非常的感兴趣。投资者能感觉得到Chatterous有或者没有他们的帮助他们都能做到。   
 
-If you're really committed and your startup is cheap to run, you become very hard to kill. And practically all startups, even the most successful, come close to death at some point. So if doing good for people gives you a sense of mission that makes you harder to kill, that alone more than compensates for whatever you lose by not choosing a more selfish project.
+If you're really committed and your startup is cheap to run, you become very hard to kill. And practically all startups, even the most successful, come close to death at some point. So if doing good for people gives you a sense of mission that makes you harder to kill, that alone more than compensates for whatever you lose by not choosing a more selfish project.   
+如果你保持很纯粹的初创,你会非常难以灭亡。而事实上所有的初创,甚至是那些最成功的,在某些时候也接近死亡。所以如果你能承担人们给你的责任感,你就很难灭亡,相比你选择一个自私的项目所失去的,你将会得到更多的补偿。   
 
+###帮助
+Another advantage of being good is that it makes other people want to help you. This too seems to be an inborn trait in humans.  
+另一个优点就是使得别人会帮助你。这似乎是人与生俱来的特质。   
+ 
+One of the startups we've funded, Octopart, is currently locked in a classic battle of good versus evil. They're a search site for industrial components. A lot of people need to search for components, and before Octopart there was no good way to do it. That, it turned out, was no coincidence.  
+在我们资助的那些初创公司中,Octopart是一家关于善与恶的交锋的经典。他们是一个搜索工业部件的网站。许多人们需要搜索部件,并且在Octopart之前还没有很好的办法。事实证明,这并非巧合。  
+
+Octopart built the right way to search for components. Users like it and they've been growing rapidly. And yet for most of Octopart's life, the biggest distributor, Digi-Key, has been trying to force them take their prices off the site. Octopart is sending them customers for free, and yet Digi-Key is trying to make that traffic stop. Why? Because their current business model depends on overcharging people who have incomplete information about prices. They don't want search to work.  
+Octopart实现了搜索工作部件的正确方式。非常的受用户青睐,所以用户增长迅速。但是Octopart最大的分销商Digi-Key,一直迫使他们提供把网站的价格标注取消。Octopart免费提供给他们的用户,但是Digi-Key想要禁止。为什么呢?以你为他们当前的商业模式依靠于用户无法得到价格的完整信息所造成的投诉。他们想搜索无法正常工作。   
+
+The Octoparts are the nicest guys in the world. They dropped out of the PhD program in physics at Berkeley to do this. They just wanted to fix a problem they encountered in their research. Imagine how much time you could save the world's engineers if they could do searches online. So when I hear that a big, evil company is trying to stop them in order to keep search broken, it makes me really want to help them. It makes me spend more time on the Octoparts than I do with most of the other startups we've funded. It just made me spend several minutes telling you how great they are. Why? Because they're good guys and they're trying to help the world.  
+Octoparts是世界上最好的。他们放弃了在伯克利大学的物理学博士学位。他们仅仅是想解决他们在研究中遇到的问题。想象一下如果工程师都在能在线搜索那会节约多少时间啊。所以当我听到那个作恶的公司想要禁止他们继续让其无法搜索的时候,我发自内心的想要帮助他们。相对于其他的初创公司,我话费了很多时间在Octoparts上面。我刚刚花了几分钟的时间告诉你Octoparts有多么伟大。为什么呢?因为他们是最好的,他们尝试着帮助整个世界。  
+
+If you're benevolent, people will rally around you: investors, customers, other companies, and potential employees. In the long term the most important may be the potential employees. I think everyone knows now that good hackers are much better than mediocre ones. If you can attract the best hackers to work for you, as Google has, you have a big advantage. And the very best hackers tend to be idealistic. They're not desperate for a job. They can work wherever they want. So most want to work on things that will make the world better.  
+如果你是仁慈的,投资者、客户、公司、员工将团结在你周围。从长远来看,最重要的可能是潜在的雇员。我想每个人都知道好的黑客大大的好于平庸的。加入你能吸引最好的黑客为你工作,就像谷歌一样,那么你将具有巨大的优势。而最好的黑客往往是理想主意的。他们拼命不是为了工作。他们会在他们想在的任何地方工作。他们想要工作的事情是使这个世界变得更美好。
+
+###指南
+But the most important advantage of being good is that it acts as a compass. One of the hardest parts of doing a startup is that you have so many choices. There are just two or three of you, and a thousand things you could do. How do you decide?  
+最重要的优势还是作为作为你的参考指南。做一个初创公司的最难的部分是,你面临很多选择,这儿你两个三个乃至上千个事情你可以做,你怎么决定?   
+
+Here's the answer: Do whatever's best for your users. You can hold onto this like a rope in a hurricane, and it will save you if anything can. Follow it and it will take you through everything you need to do.   
+答案在这: 为你的用户做最好的。它就想根救命稻草,不管遇到什么事情都可以拯救你。遵循它，它能带你通过一切障碍。    
+
+It's even the answer to questions that seem unrelated, like how to convince investors to give you money. If you're a good salesman, you could try to just talk them into it. But the more reliable route is to convince them through your users: if you make something users love enough to tell their friends, you grow exponentially, and that will convince any investor.   
+它甚至能回答看起来与问题无关的问题,比如投资者为什么要给你钱。如果你是一个优秀的推销员,你可以说服他们。但是更可靠的途径是通过你的用户说服他们:假如你能够让用户足够喜欢从而口口相传,你会成倍的增长,投资者也会心悦诚服。   
+
+Being good is a particularly useful strategy for making decisions in complex situations because it's stateless. It's like telling the truth. The trouble with lying is that you have to remember everything you've said in the past to make sure you don't contradict yourself. If you tell the truth you don't have to remember anything, and that's a really useful property in domains where things happen fast.    
+做的好是一个特别有用的投资策略,因为它的无状态,尤其是复杂的情况下做出决定。它往往告诉你事实。说谎的代价就是你不得不记住你过去说过的每件事以确保不会自相矛盾。但是如果你说实话就没必要记得任何事情,这是一个在快速变化的领域非常有用的属性。    
+
+For example, Y Combinator has now invested in 80 startups, 57 of which are still alive. (The rest have died or merged or been acquired.) When you're trying to advise 57 startups, it turns out you have to have a stateless algorithm. You can't have ulterior motives when you have 57 things going on at once, because you can't remember them. So our rule is just to do whatever's best for the founders. Not because we're particularly benevolent, but because it's the only algorithm that works on that scale.    
+举个例子,YC孵化器现在资助了80个初创公司,其中57依然生机勃勃。(剩下的已经灭亡或者被并购。)当你要给57个初创公司建议的时候,不得不给出一个无状态的算法。当你一次面对57个事情的时候你不能别有用心,因为你根本记不住他们。所以规则仅仅就是对于创始人来说,什么是最好的。不仅仅是因为我们仁慈，但是它是唯一的可以搞定任意情况的算法。    
+
+When you write something telling people to be good, you seem to be claiming to be good yourself. So I want to say explicitly that I am not a particularly good person. When I was a kid I was firmly in the camp of bad. The way adults used the word good, it seemed to be synonymous with quiet, so I grew up very suspicious of it.      
+当你写东西告诉别人变得好,似乎是在声明你自己就是好的。所以我要明确的说明我不是一个特别好的人,当我还是小孩子的时候我往往站在坏的阵营里面。成年人用这个词好,它似乎是宁静的代名词,所以我从小就非常的可疑。   
+
+You know how there are some people whose names come up in conversation and everyone says "He's such a great guy?" People never say that about me. The best I get is "he means well." I am not claiming to be good. At best I speak good as a second language.          
+你知道的,人们谈论某些人名的时候总会问"它是一个伟大的人吗?"人们从不会说关于我的。我得到最好的就是"他说很好才行。"我不会说自己好,我说的最好是第二人称的。   
+
+So I'm not suggesting you be good in the usual sanctimonious way. I'm suggesting it because it works. It will work not just as a statement of "values," but as a guide to strategy, and even a design spec for software. Don't just not be evil. Be good.    
+所以我不建议你虚伪的变得好。我建议只是因为它确实有用。它不将仅仅是声明的"所谓价值",但作为战略指导,甚至是作为软件设计的规范。仅仅是不作恶。而是变好。
