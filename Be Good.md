@@ -14,7 +14,7 @@
 
 **Another thing we tell founders is not to worry too much about the business model, at least at first. Not because making money is unimportant, but because it's so much easier than building something great.**   
 ```
-另外我们告诉创业者不要太过于担心商业模式,尤其是最开始的时候.并不是说赚钱不重要,但是相比那些做一些伟大的事情相比确实不值得一提。
+另外我们告诉创业者不要太过于担心商业模式,尤其是最开始的时候。并不是说赚钱不重要,但是相比那些做一些伟大的事情相比确实不值得一提。
 ```
 
 **A couple weeks ago I realized that if you put those two ideas together, you get something surprising. Make something people want. Don't worry too much about making money. What you've got is a description of a charity.**   
