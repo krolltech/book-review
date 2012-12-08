@@ -47,4 +47,50 @@ I didn't want to start another company, so I didn't do it. But if someone had, t
 Notice the pattern here? From either direction we get to the same spot. If you start from successful startups, you find they often behaved like nonprofits. And if you start from ideas for nonprofits, you find they'd often make good startups.   
 这里面有固定的模式吗? 从任意方向我们都得到一个相同点。加入你成功的创业,你会发现他们经常表现的像个非盈利性的组织。如果你从事非盈利性的想法开始,你会发现他们通常能做出良好的公司。  
 
+**威力**
+How wide is this territory? Would all good nonprofits be good companies? Possibly not. What makes Google so valuable is that their users have money. If you make people with money love you, you can probably get some of it. But could you also base a successful startup on behaving like a nonprofit to people who don't have money? Could you, for example, grow a successful startup out of curing an unfashionable but deadly disease like malaria?   
+这里面有多大的可能性呢? 以非盈利性开始的都能成为好公司吗? 恐怕不是。让谷歌如此价值连城的是因为他们的用户有钱。 如果你能让有钱人喜欢你,你可能会得到一些。但是你能在一些没有钱的用户基础上成功的启动非盈利性的活动吗? 可以吗,举个例子,你成长的非常好,但是很不幸遭遇了致命的疾病,比如痢疾?   
+
+I'm not sure, but I suspect that if you pushed this idea, you'd be surprised how far it would go. For example, people who apply to Y Combinator don't generally have much money, and yet we can profit by helping them, because with our help they could make money. Maybe the situation is similar with malaria. Maybe an organization that helped lift its weight off a country could benefit from the resulting growth.     
+我不是很肯定,但是我非常怀疑你把这个想法付诸实践的时候能够走多远。举个例子,进入YC孵化器的人通常都没有钱,但是我们可以帮助他们赚取更多的钱而从中获利。可能和发生痢疾一样的情况。有可能一个帮助其减少体重的国家能够从成长的结果中获利。
+
+I'm not proposing this is a serious idea. I don't know anything about malaria. But I've been kicking ideas around long enough to know when I come across a powerful one.   
+我不认为这是一个合格的想法。我对痢疾了解甚少。但是我知道长时间有这个想法能够带来多大的威力。  
+
+One way to guess how far an idea extends is to ask yourself at what point you'd bet against it. The thought of betting against benevolence is alarming in the same way as saying that something is technically impossible. You're just asking to be made a fool of, because these are such powerful forces.  
+猜测的想法能延伸多元取决你的抵触。这种想法和说某个技术是不可能实现的一样有害。你仅仅是被你的想法愚弄了,因为这种想法的威力非常强大。  
+
+For example, initially I thought maybe this principle only applied to Internet startups. Obviously it worked for Google, but what about Microsoft? Surely Microsoft isn't benevolent? But when I think back to the beginning, they were. Compared to IBM they were like Robin Hood. When IBM introduced the PC, they thought they were going to make money selling hardware at high prices. But by gaining control of the PC standard, Microsoft opened up the market to any manufacturer. Hardware prices plummeted, and lots of people got to have computers who couldn't otherwise have afforded them. It's the sort of thing you'd expect Google to do.  
+例如,最初我想这个想法可能只适用于互联网初创的公司. 但是很明显,谷歌就不是,那么对于微软公司呢? 当然微软不盈利吗? 但是我回想当初, 他们也是。和IBM相比,他们更像是罗宾汉。当IBM生产出PC,他们认为他们可以在硬件上卖很高的价钱。但是为了打破PC的垄断,微软对任何厂商开放市场。硬件价格暴跌,许多人拥有了以前买不起的电脑。那也是你希望谷歌所做的。
+
+Microsoft isn't so benevolent now. Now when one thinks of what Microsoft does to users, all the verbs that come to mind begin with F. And yet it doesn't seem to pay. Their stock price has been flat for years. Back when they were Robin Hood, their stock price rose like Google's. Could there be a connection?   
+微软现在也是没那么仁慈,现在某个人想起微软对用户的所为,所有的想法都起始于回归的时候。好像没人愿意付费。他们的股票加个持平了很多年。当初罗宾汉回归的时候,他们的股票价格像谷歌一样的增长。这里面有什么联系吗?    
+
+You can see how there would be. When you're small, you can't bully customers, so you have to charm them. Whereas when you're big you can maltreat them at will, and you tend to, because it's easier than satisfying them. You grow big by being nice, but you can stay big by being mean.  
+你可以看到哦啊,当你小的时候,你不能欺骗客户,所以你不得不保持你的魅力。当你做大以后,你可以剥削他们的意愿,你会的,因为满足他们是非常容易的。做大当然非常好,但困难的是你能够保持。
+
+You get away with it till the underlying conditions change, and then all your victims escape. So "Don't be evil" may be the most valuable thing Paul Buchheit made for Google, because it may turn out to be an elixir of corporate youth. I'm sure they find it constraining, but think how valuable it will be if it saves them from lapsing into the fatal laziness that afflicted Microsoft and IBM.   
+直到条件变化的时候,你才能摆脱它,并且你的所有的受害者都会逃离掉。因此不作恶可能是最有价值,因为它才是企业保持青春的灵丹妙药. 我敢肯定,他们遇到很多的限制,但是他们认为这是非常宝贵的,以免重蹈微软和IBM之覆辙。   
+
+The curious thing is, this elixir is freely available to any other company. Anyone can adopt "Don't be evil." The catch is that people will hold you to it. So I don't think you're going to see record labels or tobacco companies using this discovery.    
+奇怪的事情是这个灵丹妙药对任何公司都是免费的,任何人都可以采取不作恶的态度。意外的是人们只会让给你。所以我不认为你会看到唱片公司和烟草公司这样做。   
+
+**士气**
+There's a lot of external evidence that benevolence works. But how does it work? One advantage of investing in a large number of startups is that you get a lot of data about how they work. From what we've seen, being good seems to help startups in three ways: it improves their morale, it makes other people want to help them, and above all, it helps them be decisive.     
+这儿有很多证据能够表明非盈利性的强大作用。但他是怎么做到的?大量初创公司投资的优势是可以得到很多数据。已经可以看到,对于创业公司有三个方面的帮助: 提高了士气,让人们愿意帮助他们,很重要的是可以帮助他们做出决定。
+
+Morale is tremendously important to a startup—so important that morale alone is almost enough to determine success. Startups are often described as emotional roller-coasters. One minute you're going to take over the world, and the next you're doomed. The problem with feeling you're doomed is not just that it makes you unhappy, but that it makes you stop working. So the downhills of the roller-coaster are more of a self fulfilling prophecy than the uphills. If feeling you're going to succeed makes you work harder, that probably improves your chances of succeeding, but if feeling you're going to fail makes you stop working, that practically guarantees you'll fail.
+士气对于初创公司是及其重要的-重要的是唯一决定着是否成功。初创公司往往被描述为不确定性的。现在你好像要统治世界,下一刻又要注定宣判了。这个让你被宣判的问题不仅仅在于让你不高兴,而是真正的让你停止工作。因此上坡下坡的过山车是自我实现的预言。如果你觉得你会成功,你就会更努力的工作,相反如果你觉得你要失败,你会消极工作,那么注定要失败。 
+
+Here's where benevolence comes in. If you feel you're really helping people, you'll keep working even when it seems like your startup is doomed. Most of us have some amount of natural benevolence. The mere fact that someone needs you makes you want to help them. So if you start the kind of startup where users come back each day, you've basically built yourself a giant tamagotchi. You've made something you need to take care of.
+
+Blogger is a famous example of a startup that went through really low lows and survived. At one point they ran out of money and everyone left. Evan Williams came in to work the next day, and there was no one but him. What kept him going? Partly that users needed him. He was hosting thousands of people's blogs. He couldn't just let the site die.
+
+There are many advantages of launching quickly, but the most important may be that once you have users, the tamagotchi effect kicks in. Once you have users to take care of, you're forced to figure out what will make them happy, and that's actually very valuable information.
+
+The added confidence that comes from trying to help people can also help you with investors. One of the founders of Chatterous told me recently that he and his cofounder had decided that this service was something the world needed, so they were going to keep working on it no matter what, even if they had to move back to Canada and live in their parents' basements.
+
+Once they realized this, they stopped caring so much what investors thought about them. They still met with them, but they weren't going to die if they didn't get their money. And you know what? The investors got a lot more interested. They could sense that the Chatterouses were going to do this startup with or without them.
+
+If you're really committed and your startup is cheap to run, you become very hard to kill. And practically all startups, even the most successful, come close to death at some point. So if doing good for people gives you a sense of mission that makes you harder to kill, that alone more than compensates for whatever you lose by not choosing a more selfish project.
 
