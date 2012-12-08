@@ -1,9 +1,11 @@
-###Be Good - Paul Graham (April 2008)
+#Be Good - Paul Graham (April 2008)
 ===
 [原文链接](http://www.paulgraham.com/good.html)
 
 **(This essay is derived from a talk at the 2008 Startup School.)**   
+```
 (本文来自于2008年开学典礼上的讨论.)
+```  
 
 **About a month after we started Y Combinator we came up with the phrase that became our motto: Make something people want. We've learned a lot since then, but if I were choosing now that's still the one I'd pick.**  
 大约1个月后我们开始创办了YC孵化器,我们的座右铭就是:满足人们的需求,从那时起,我们学到了很多东西,即便是现在,我仍然会那样选择。
@@ -20,7 +22,7 @@
 **I suspect it's the latter, because as soon as this thought occurred to me, a whole bunch of other things fell into place.**   
 我怀疑是后者,因为从这个观念在我头脑中形成的时候,其他的事情都被我抛在脑后了。
 
-###例子  
+#例子  
 **For example, Craigslist. It's not a charity, but they run it like one. And they're astoundingly successful. When you scan down the list of most popular web sites, the number of employees at Craigslist looks like a misprint. Their revenues aren't as high as they could be, but most startups would be happy to trade places with them.**  
 比如说Craigslist,他们就是这样的做的,惊人的成功,但是显然他们不是慈善结构。当你搜索整个流行网站的时候,Craigslist的员工的页面好像是发生了印刷错误一样。他们的收入仿佛和他们所做的事情并不匹配,但是大多数创业公司却很乐意和他们交换位置。
 
@@ -45,7 +47,7 @@
 **Notice the pattern here? From either direction we get to the same spot. If you start from successful startups, you find they often behaved like nonprofits. And if you start from ideas for nonprofits, you find they'd often make good startups.**   
 这里面有固定的模式吗? 从任意方向我们都得到一个相同点。加入你成功的创业,你会发现他们经常表现的像个非盈利性的组织。如果你从事非盈利性的想法开始,你会发现他们通常能做出良好的公司。  
 
-###威力  
+#威力  
 **How wide is this territory? Would all good nonprofits be good companies? Possibly not. What makes Google so valuable is that their users have money. If you make people with money love you, you can probably get some of it. But could you also base a successful startup on behaving like a nonprofit to people who don't have money? Could you, for example, grow a successful startup out of curing an unfashionable but deadly disease like malaria?**    
 这里面有多大的可能性呢? 以非盈利性开始的都能成为好公司吗? 恐怕不是。让谷歌如此价值连城的是因为他们的用户有钱。 如果你能让有钱人喜欢你,你可能会得到一些。但是你能在一些没有钱的用户基础上成功的启动非盈利性的活动吗? 可以吗,举个例子,你成长的非常好,但是很不幸遭遇了致命的疾病,比如痢疾?   
 
@@ -73,7 +75,7 @@
 **The curious thing is, this elixir is freely available to any other company. Anyone can adopt "Don't be evil." The catch is that people will hold you to it. So I don't think you're going to see record labels or tobacco companies using this discovery.**    
 奇怪的事情是这个灵丹妙药对任何公司都是免费的,任何人都可以采取不作恶的态度。意外的是人们只会让给你。所以我不认为你会看到唱片公司和烟草公司这样做。   
 
-###士气  
+#士气  
 **There's a lot of external evidence that benevolence works. But how does it work? One advantage of investing in a large number of startups is that you get a lot of data about how they work. From what we've seen, being good seems to help startups in three ways: it improves their morale, it makes other people want to help them, and above all, it helps them be decisive.**     
 这儿有很多证据能够表明非盈利性的强大作用。但他是怎么做到的?大量初创公司投资的优势是可以得到很多数据。已经可以看到,对于创业公司有三个方面的帮助: 提高了士气,让人们愿意帮助他们,很重要的是可以帮助他们做出决定。
 
@@ -98,7 +100,7 @@ Blogger是一个著名的例子,经历了非常低调的初创和幸存。有次
 **If you're really committed and your startup is cheap to run, you become very hard to kill. And practically all startups, even the most successful, come close to death at some point. So if doing good for people gives you a sense of mission that makes you harder to kill, that alone more than compensates for whatever you lose by not choosing a more selfish project.**   
 如果你保持很纯粹的初创,你会非常难以灭亡。而事实上所有的初创,甚至是那些最成功的,在某些时候也接近死亡。所以如果你能承担人们给你的责任感,你就很难灭亡,相比你选择一个自私的项目所失去的,你将会得到更多的补偿。   
 
-###帮助
+#帮助
 **Another advantage of being good is that it makes other people want to help you. This too seems to be an inborn trait in humans.**  
 另一个优点就是使得别人会帮助你。这似乎是人与生俱来的特质。   
  
@@ -114,7 +116,7 @@ Octoparts是世界上最好的。他们放弃了在伯克利大学的物理学�
 **If you're benevolent, people will rally around you: investors, customers, other companies, and potential employees. In the long term the most important may be the potential employees. I think everyone knows now that good hackers are much better than mediocre ones. If you can attract the best hackers to work for you, as Google has, you have a big advantage. And the very best hackers tend to be idealistic. They're not desperate for a job. They can work wherever they want. So most want to work on things that will make the world better.**  
 如果你是仁慈的,投资者、客户、公司、员工将团结在你周围。从长远来看,最重要的可能是潜在的雇员。我想每个人都知道好的黑客大大的好于平庸的。加入你能吸引最好的黑客为你工作,就像谷歌一样,那么你将具有巨大的优势。而最好的黑客往往是理想主意的。他们拼命不是为了工作。他们会在他们想在的任何地方工作。他们想要工作的事情是使这个世界变得更美好。
 
-###指南
+#指南
 **But the most important advantage of being good is that it acts as a compass. One of the hardest parts of doing a startup is that you have so many choices. There are just two or three of you, and a thousand things you could do. How do you decide?**  
 最重要的优势还是作为作为你的参考指南。做一个初创公司的最难的部分是,你面临很多选择,这儿你两个三个乃至上千个事情你可以做,你怎么决定?   
 
