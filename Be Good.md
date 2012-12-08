@@ -2,8 +2,6 @@
 ===
 [原文链接](http://www.paulgraham.com/good.html)
 
-###翻译
-===
 (This essay is derived from a talk at the 2008 Startup School.)
 (本文来自于2008年开学典礼上的讨论.)
 
