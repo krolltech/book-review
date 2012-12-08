@@ -22,7 +22,7 @@ When you get an unexpected result like this, it could either be a bug or a new d
 I suspect it's the latter, because as soon as this thought occurred to me, a whole bunch of other things fell into place.   
 我怀疑是后者,因为从这个观念在我头脑中形成的时候,其他的事情都被我抛在脑后了。
 
-**例子**
+###例子  
 For example, Craigslist. It's not a charity, but they run it like one. And they're astoundingly successful. When you scan down the list of most popular web sites, the number of employees at Craigslist looks like a misprint. Their revenues aren't as high as they could be, but most startups would be happy to trade places with them.  
 比如说Craigslist,他们就是这样的做的,惊人的成功,但是显然他们不是慈善结构。当你搜索整个流行网站的时候,Craigslist的员工的页面好像是发生了印刷错误一样。他们的收入仿佛和他们所做的事情并不匹配,但是大多数创业公司却很乐意和他们交换位置。
 
@@ -47,7 +47,7 @@ I didn't want to start another company, so I didn't do it. But if someone had, t
 Notice the pattern here? From either direction we get to the same spot. If you start from successful startups, you find they often behaved like nonprofits. And if you start from ideas for nonprofits, you find they'd often make good startups.   
 这里面有固定的模式吗? 从任意方向我们都得到一个相同点。加入你成功的创业,你会发现他们经常表现的像个非盈利性的组织。如果你从事非盈利性的想法开始,你会发现他们通常能做出良好的公司。  
 
-**威力**
+###威力  
 How wide is this territory? Would all good nonprofits be good companies? Possibly not. What makes Google so valuable is that their users have money. If you make people with money love you, you can probably get some of it. But could you also base a successful startup on behaving like a nonprofit to people who don't have money? Could you, for example, grow a successful startup out of curing an unfashionable but deadly disease like malaria?   
 这里面有多大的可能性呢? 以非盈利性开始的都能成为好公司吗? 恐怕不是。让谷歌如此价值连城的是因为他们的用户有钱。 如果你能让有钱人喜欢你,你可能会得到一些。但是你能在一些没有钱的用户基础上成功的启动非盈利性的活动吗? 可以吗,举个例子,你成长的非常好,但是很不幸遭遇了致命的疾病,比如痢疾?   
 
@@ -75,7 +75,7 @@ You get away with it till the underlying conditions change, and then all your vi
 The curious thing is, this elixir is freely available to any other company. Anyone can adopt "Don't be evil." The catch is that people will hold you to it. So I don't think you're going to see record labels or tobacco companies using this discovery.    
 奇怪的事情是这个灵丹妙药对任何公司都是免费的,任何人都可以采取不作恶的态度。意外的是人们只会让给你。所以我不认为你会看到唱片公司和烟草公司这样做。   
 
-**士气**
+###士气  
 There's a lot of external evidence that benevolence works. But how does it work? One advantage of investing in a large number of startups is that you get a lot of data about how they work. From what we've seen, being good seems to help startups in three ways: it improves their morale, it makes other people want to help them, and above all, it helps them be decisive.     
 这儿有很多证据能够表明非盈利性的强大作用。但他是怎么做到的?大量初创公司投资的优势是可以得到很多数据。已经可以看到,对于创业公司有三个方面的帮助: 提高了士气,让人们愿意帮助他们,很重要的是可以帮助他们做出决定。
 
