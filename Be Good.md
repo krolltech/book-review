@@ -2,7 +2,7 @@
 ===
 [原文链接](http://www.paulgraham.com/good.html)
 
-(This essay is derived from a talk at the 2008 Startup School.)
+(This essay is derived from a talk at the 2008 Startup School.)   
 (本文来自于2008年开学典礼上的讨论.)
 
 About a month after we started Y Combinator we came up with the phrase that became our motto: Make something people want. We've learned a lot since then, but if I were choosing now that's still the one I'd pick.  
