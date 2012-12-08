@@ -21,9 +21,9 @@
 ```
 
 **When you get an unexpected result like this, it could either be a bug or a new discovery. Either businesses aren't supposed to be like charities, and we've proven by reductio ad absurdum that one or both of the principles we began with is false. Or we have a new idea.**   
-```
-当你得到一个意想不到的结论的时候,你要知道它要么是个bug,要么是一个真正的发现,根据反证法的原则,其中一个或者两个都是假的,否则我们有了新的发现。
-```
+
+	当你得到一个意想不到的结论的时候,你要知道它要么是个bug,要么是一个真正的发现,根据反证法的原则,其中一个或者两个都是假的,否则我们有了新的发现。
+
 
 **I suspect it's the latter, because as soon as this thought occurred to me, a whole bunch of other things fell into place.**   
 ```
