@@ -1,8 +1,8 @@
 ###Be Good - Paul Graham (April 2008)
 ===
-[原文地址](http://www.paulgraham.com/good.html)
+[原文链接](http://www.paulgraham.com/good.html)
 
-###原文翻译
+###翻译
 ===
 (This essay is derived from a talk at the 2008 Startup School.)
 (本文来自于2008年开学典礼上的讨论.)
