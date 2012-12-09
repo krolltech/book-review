@@ -1,7 +1,7 @@
 #Be Good - Paul Graham (April 2008)
 ===
 [原文链接](http://www.paulgraham.com/good.html)
-
+****
 **(This essay is derived from a talk at the 2008 Startup School.)**   
 ```
 (本文来自于2008年开学典礼上的讨论.)
@@ -204,7 +204,7 @@ Octoparts是世界上最好的。他们放弃了在伯克利大学的物理学�
 
 **Being good is a particularly useful strategy for making decisions in complex situations because it's stateless. It's like telling the truth. The trouble with lying is that you have to remember everything you've said in the past to make sure you don't contradict yourself. If you tell the truth you don't have to remember anything, and that's a really useful property in domains where things happen fast.**    
 ```
-做的好是一个特别有用的投资策略,因为它的无状态,尤其是复杂的情况下做出决定。它往往告诉你事实。说谎的代价就是你不得不记住你过去说过的每件事以确保不会自相矛盾。但是如果你说实话就没必要记得任何事情,这是一个在快速变化的领域非常有用的属性。    
+行善是一个特别有用的投资策略,因为它的无状态,尤其是复杂的情况下做出决定。它往往告诉你事实。说谎的代价就是你不得不记住你过去说过的每件事以确保不会自相矛盾。但是如果你说实话就没必要记得任何事情,这是一个在快速变化的领域非常有用的属性。    
 ```
 
 **For example, Y Combinator has now invested in 80 startups, 57 of which are still alive. (The rest have died or merged or been acquired.) When you're trying to advise 57 startups, it turns out you have to have a stateless algorithm. You can't have ulterior motives when you have 57 things going on at once, because you can't remember them. So our rule is just to do whatever's best for the founders. Not because we're particularly benevolent, but because it's the only algorithm that works on that scale.**    
@@ -214,7 +214,7 @@ Octoparts是世界上最好的。他们放弃了在伯克利大学的物理学�
 
 **When you write something telling people to be good, you seem to be claiming to be good yourself. So I want to say explicitly that I am not a particularly good person. When I was a kid I was firmly in the camp of bad. The way adults used the word good, it seemed to be synonymous with quiet, so I grew up very suspicious of it.**      
 ```
-当你写东西告诉别人变得好,似乎是在声明你自己就是好的。所以我要明确的说明我不是一个特别好的人,当我还是小孩子的时候我往往站在坏的阵营里面。成年人用这个词好,它似乎是宁静的代名词,所以我从小就非常的可疑。   
+当你写东西告诉别人行善,似乎是在声明你自己就是好的。所以我要明确的说明我不是一个特别好的人,当我还是小孩子的时候我往往站在坏的阵营里面。成年人用这个词好,它似乎是宁静的代名词,所以我从小就非常的可疑。   
 ```
 
 **You know how there are some people whose names come up in conversation and everyone says "He's such a great guy?" People never say that about me. The best I get is "he means well." I am not claiming to be good. At best I speak good as a second language.**          
@@ -224,5 +224,5 @@ Octoparts是世界上最好的。他们放弃了在伯克利大学的物理学�
 
 **So I'm not suggesting you be good in the usual sanctimonious way. I'm suggesting it because it works. It will work not just as a statement of "values," but as a guide to strategy, and even a design spec for software. Don't just not be evil. Be good.**    
 ```
-所以我不建议你虚伪的变得好。我建议只是因为它确实有用。它不将仅仅是声明的"所谓价值",但作为战略指导,甚至是作为软件设计的规范。仅仅是不作恶。而是变好。
+所以我不建议你虚伪的行善。我建议只是因为它确实有用。它不将仅仅是声明的"所谓价值",但作为战略指导,甚至是作为软件设计的规范。仅仅是不作恶。而是行善。
 ```
